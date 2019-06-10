@@ -1,0 +1,23 @@
+{
+  "name": "antd-theme-variables",
+  "version": "1.0.0",
+  "description": "antd theme",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuikangjie/antd-theme-variables.git"
+  },
+  "keywords": [
+    "antd",
+    "theme"
+  ],
+  "author": "cuikangjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuikangjie/antd-theme-variables/issues"
+  },
+  "homepage": "https://github.com/cuikangjie/antd-theme-variables#readme"
+}
